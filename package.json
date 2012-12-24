@@ -1,0 +1,12 @@
+{
+    "name": "fcgi-stream",
+    "version": "0.1.4",
+    "description": "FastCGI Stream extracted from the IrisCouch fastcgi module",
+    "main": "index.js",
+    "repository": "https://github.com/aredridel/fcgi-stream",
+    "author": "Jason Smith <jhs@iriscouch.com> (http://www.iriscouch.com)",
+    "maintainers": [
+      "Aria Stewart <aredridel@nbtsc.org>"
+    ],
+    "license": "Apache 2.0"
+}
